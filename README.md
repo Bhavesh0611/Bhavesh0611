@@ -3,5 +3,3 @@
 - 🌱 I’m currently expanding my skills in Python Programing & backend development.
 - 💞️ I’m looking for opportunities to contribute to challenging projects and collaborate with talented teams.
 - 📫 How to reach me: bhaveshshinde758@gmail.com
-- 😄 Pronouns: 
-- ⚡ Fun fact: 
