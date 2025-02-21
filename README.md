@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Bhavesh0611
+- 👀 I’m a job-seeking web developer passionate about building innovative and user-friendly applications.
+- 🌱 I’m currently expanding my skills in Python Programing & backend development.
+- 💞️ I’m looking for opportunities to contribute to challenging projects and collaborate with talented teams.
+- 📫 How to reach me: bhaveshshinde758@gmail.com
+- 😄 Pronouns: 
+- ⚡ Fun fact: 
